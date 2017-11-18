@@ -1,2 +1,3 @@
 # zabbix-cassandra-template
-a Zabbix template for monitoring Cassandra
+
+a Zabbix template for Cassandra
